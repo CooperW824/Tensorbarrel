@@ -1,0 +1,9 @@
+#ifndef VERSION_H
+#define VERSION_H
+
+#define VERSION_MAJOR @Tensorbarrel_VERSION_MAJOR@
+#define VERSION_MINOR @Tensorbarrel_VERSION_MINOR@
+#define VERSION_PATCH @Tensorbarrel_VERSION_PATCH@
+#define VERSION "@Tensorbarrel_VERSION@"
+
+#endif /* VERSION_H */
